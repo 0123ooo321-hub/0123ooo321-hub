@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Савченко Всеволод</h1>
-<h3 align="center">🎓 Студент 2 курса |  Web Developer</h3>
+<h3 align="center"> Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Учусь+веб-разработке+каждый+день;Frontend+%7C+React+%7C+JavaScript;Ищу+стажировку+и+первые+проекты;Открыт+к+новым+знаниям+%F0%9F%9A%80" alt="Typing SVG" />
