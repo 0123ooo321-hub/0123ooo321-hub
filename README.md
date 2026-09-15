@@ -1,5 +1,5 @@
-<h1 align="center">Привет 👋, я Иван Иванов</h1>
-<h3 align="center">🎓 Студент 2 курса | Начинающий Web Developer</h3>
+<h1 align="center">Привет 👋, я Савченко Всеволод</h1>
+<h3 align="center">🎓 Студент 2 курса |  Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Учусь+веб-разработке+каждый+день;Frontend+%7C+React+%7C+JavaScript;Ищу+стажировку+и+первые+проекты;Открыт+к+новым+знаниям+%F0%9F%9A%80" alt="Typing SVG" />
@@ -13,27 +13,3 @@
 </p>
 
 ---
-
-## 🙋‍♂️ Обо мне
-
-```javascript
-const student = {
-  name: "Иван Иванов",
-  education: "Колледж, 2 курс — Веб-разработка",
-  location: "Россия",
-  code: ["JavaScript", "HTML", "CSS", "TypeScript"],
-  technologies: {
-    frontend: ["React", "Tailwind CSS", "Vite"],
-    backend: ["Node.js", "Express"],
-    databases: ["PostgreSQL", "MongoDB"],
-    tools: ["Git", "VS Code", "Figma", "Postman"]
-  },
-  currentlyLearning: ["Next.js", "TypeScript", "REST API"],
-  goals2025: [
-    "Найти стажировку",
-    "Сделать 5+ pet-проектов",
-    "Внести вклад в open-source"
-  ],
-  hobbies: ["🎮 игры", "🎵 музыка", "☕ кофе"],
-  funFact: "Мой первый сайт был на таблицах из HTML 😅"
-};
