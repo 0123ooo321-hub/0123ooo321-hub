@@ -74,5 +74,5 @@
 <i>⭐ Спасибо, что заглянул!</i>
 
 </div>
-<img width="1024" height="1536" alt="f741b6c4-206a-40aa-802a-82845c5c416b" src="https://github.com/user-attachments/assets/8f47a698-d389-4a77-ad05-649b1e16d942" />
-<img width="1024" height="1536" alt="a2f0fd22-c939-4d69-9d96-7d31863ad6d9" src="https://github.com/user-attachments/assets/237f3bd4-3714-4c28-90c7-865904b22819" />
+<img width="512" height="768" alt="f741b6c4-206a-40aa-802a-82845c5c416b" src="https://github.com/user-attachments/assets/8f47a698-d389-4a77-ad05-649b1e16d942" />
+<img width="512" height="768" alt="a2f0fd22-c939-4d69-9d96-7d31863ad6d9" src="https://github.com/user-attachments/assets/237f3bd4-3714-4c28-90c7-865904b22819" />
