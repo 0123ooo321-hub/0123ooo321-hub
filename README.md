@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, я Всеволод Савченко</h1>
+<h1 align="center">Привет 👋, я Иван Иванов</h1>
 <h3 align="center">🎓 Студент 2 курса | Начинающий Web Developer</h3>
 
 <p align="center">
